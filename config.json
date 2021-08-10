@@ -1,9 +1,9 @@
 {
-	"ip":"FireplayzMCPE.aternos.me",
-	"port": 48207,
-	"name": "player837",
+	"ip":"OlympuseVmi.aternos.me",
+	"port": "55587",
+	"name": "olympus",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register (fish123) (fish123)",
 	"login-cmd":"/login (fish123)"
 }
